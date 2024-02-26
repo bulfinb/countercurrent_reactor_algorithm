@@ -1,6 +1,9 @@
-An algorithm for calculating the thermodynmic limits of species exchange in a countercurrent reactor. The algorithm is theoretically described in the publication [thermodynamic limits of countercurrent reactor systems, with examples in membrane reactors and the ceria redox cycle](https://doi.org/10.1039/C8CP07077F )
+# Thermodynamic limits of countercurrent membrane reactors
+This repository contains the numerical implementation of a method for determining countercurrent thermodynamic limites detailed in my research paper in RSC Physical Chemistry Chemical Physics, DOI: [10.1039/C8CP07077F](https://doi.org/10.1039/C8CP07077F)
 
-
+Bulfin B. 
+"Thermodynamic limits of countercurrent reactor systems, with examples in membrane reactors and the ceria redox cycle." 
+*Physical Chemistry Chemical Physics* 21.4 (2019): 2186-2195.
 
 Dependencies
 ------------
